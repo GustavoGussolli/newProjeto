@@ -1,0 +1,38 @@
+#divs div{
+
+    display: inline-block;
+    margin: 10px 105px 10px 105px;
+    font-size: large;
+
+
+}
+
+footer{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background-color: #FF7D29;
+    text-align: center;
+}
+
+header{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background-color: #FFBF78;
+}
+
+main{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background-color: #FFEEA9;
+    margin: 50px;
+    text-align: center;
+    
+
+}
+
+body{
+    background-color: #FFBF78;
+}
