@@ -1,7 +1,18 @@
+#agenda div{
+
+    font-size: medium;
+    display: inline-table;
+    padding: 10px 250px 10px 250px;
+    font-size: larger;
+    
+
+}
+
+
 #divs div{
 
     display: inline-block;
-    margin: 10px 105px 10px 105px;
+    margin: 10px 70px 10px 70px;
     font-size: large;
 
 
@@ -28,11 +39,16 @@ main{
     border: 0px;
     background-color: #FFEEA9;
     margin: 50px;
-    text-align: center;
-    
+    text-align: center; 
 
 }
 
 body{
     background-color: #FFBF78;
 }
+
+img{
+    padding: 50px 50px 50px 50px;
+    width: 500px;
+}
+
